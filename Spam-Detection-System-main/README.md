@@ -2,7 +2,7 @@
 
 The SMS Spam Detection System is a machine learning-based web application that classifies incoming SMS messages as Spam or Not Spam. It leverages natural language processing and machine learning algorithms to ensure accurate and efficient message classification. The system is developed in Python and deployed using Streamlit for an interactive web interface.
 
-** Technologies Used**
+**Technologies Used**
 
 Python
 
