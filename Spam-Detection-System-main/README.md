@@ -1,18 +1,27 @@
-Spam-Detection-System
+**Overview**
 
-Overview:
-SMS Spam Detection is a machine learning model that takes an SMS as input and predicts whether the message is a spam or not spam message. The model is built using Python and deployed on the web using Streamlit.
+The SMS Spam Detection System is a machine learning-based web application that classifies incoming SMS messages as Spam or Not Spam. It leverages natural language processing and machine learning algorithms to ensure accurate and efficient message classification. The system is developed in Python and deployed using Streamlit for an interactive web interface.
 
-Technology Used:
-Python,
-Scikit-learn,
-Pandas,
-NumPy, and 
+** Technologies Used**
+
+Python
+
+Scikit-learn
+
+Pandas
+
+NumPy
+
 Streamlit
 
-Features:
-Data collection,
-Data cleaning and preprocessing,
-Exploratory Data Analysis,
-Model building and selection, and 
-Web deployment using Streamlit
+**Key Features**
+
+Data Collection: Gathering and organizing SMS datasets for training.
+
+Data Preprocessing: Cleaning, tokenizing, and preparing text data for analysis.
+
+Exploratory Data Analysis (EDA): Visualizing and understanding patterns within the dataset.
+
+Model Building & Evaluation: Training, testing, and selecting the best-performing ML model.
+
+Web Deployment: Deploying the trained model as an interactive web app using Streamlit.
